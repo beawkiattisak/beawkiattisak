@@ -15,7 +15,6 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          CODE_LANG: rust
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML LUA INI
           SHOW_TOTAL: true
