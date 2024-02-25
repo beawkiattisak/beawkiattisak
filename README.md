@@ -3,8 +3,6 @@
 - Currently studying at [Assumption College Rayong](https://www.acr.ac.th) in the Science-Engineer program.
 - How to reach me 🤔 [beawkiattisak@gmail.com](mailto:beawkiattisak@example.com)
 
-<div align="center">
-
 ### Social Media
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiattisakbeaw/)
@@ -18,9 +16,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-</div>
-
-<div align="center">
 
 ### Streak 🚀
 [![GitHub Streak](https://streak-stats.demolab.com?user=beawkiattisak&theme=dark&hide_border=true)](https://git.io/streak-stats)
