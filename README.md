@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 
-```rust
+```txt
 Total Time: 1 hr 14 mins
 
 C++     25 mins         ████████▓░░░░░░░░░░░░░░░░   34.09 %
