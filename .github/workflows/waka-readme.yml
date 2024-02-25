@@ -15,3 +15,15 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          CODE_LANG: rust
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML LUA INI
+          SHOW_TOTAL: true
+          # Commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: beawkiattisak
+          AUTHOR_EMAIL: beawkiattisak@gmail.com
