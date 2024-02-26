@@ -25,6 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 6 hrs 40 mins
+
 C++          2 hrs 51 mins   ██████████▓░░░░░░░░░░░░░░   42.67 %
 Rust         42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
 Swift        39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
