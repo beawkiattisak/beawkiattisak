@@ -17,7 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML LUA INI Python
-          SHOW_TOTAL: false
+          SHOW_TOTAL: true
           # Commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
