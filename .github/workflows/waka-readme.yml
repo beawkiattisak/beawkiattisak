@@ -18,6 +18,7 @@ jobs:
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML LUA INI Python
           SHOW_TOTAL: true
+          TIME_RANGE: all_time
           # Commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
