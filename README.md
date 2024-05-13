@@ -1,7 +1,6 @@
 ## hey there 👋
 
 - Currently studying at [Assumption College Rayong](https://www.acr.ac.th) in the Science-Engineer program.
-- How to reach me 🤔 [beawkiattisak@gmail.com](mailto:beawkiattisak@example.com)
 
 ### Social Media
 
