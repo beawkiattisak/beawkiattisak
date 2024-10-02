@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 110 hrs 40 mins
+Total Time: 114 hrs
 
-C++           57 hrs 3 mins   ████████████▒░░░░░░░░░░░░   49.93 %
-TypeScript    12 hrs 55 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Python        9 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-JavaScript    7 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Rust          4 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+C++           57 hrs 3 mins   ████████████░░░░░░░░░░░░░   48.51 %
+TypeScript    14 hrs 29 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+Python        9 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+JavaScript    7 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Rust          4 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
