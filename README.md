@@ -8,6 +8,18 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kiattisakbeawsanburee)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dgRsHb5duc)
 
+### Achievement 🏆
+- Winner of KMITL ITClash 2025
+- Winner of KMITL Engineering Road To AI Cyber Security
+- Winner of Depa Coding War 2024 Regional Round
+- 2nd Place The Global IT Olympiad CTF Qualifying Round
+- 3rd Place Nation Software Contest 2025
+- 2nd Place Thailand Cyber Top Talent 2025 Final Round
+- 4th Place Thailand Cyber Top Talent 2025 Qualifying Round
+- 4th Place Thailand Cyber Top Talent 2024 Final Round
+- 6th Place Thailand Cyber Top Talent 2024 Qualifying Round
+
+
 ### Tech Stack
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
