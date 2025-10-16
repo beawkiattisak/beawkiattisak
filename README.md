@@ -11,9 +11,9 @@
 ### Achievement 🏆
 - Winner of KMITL ITClash 2025
 - Winner of KMITL Engineering Road To AI Cyber Security
-- Winner of Depa Coding War 2024 Regional Round
 - 3rd Place Nation Software Contest 2025
 - 3rd Place Depa Coding War 2024 Final Round
+- Winner of Depa Coding War 2024 Regional Round
 - 2nd Place The Global IT Olympiad CTF Qualifying Round
 - 2nd Place Thailand Cyber Top Talent 2025 Final Round
 - 4th Place Thailand Cyber Top Talent 2025 Qualifying Round
