@@ -20,18 +20,6 @@
 - 4th Place Thailand Cyber Top Talent 2024 Final Round
 - 6th Place Thailand Cyber Top Talent 2024 Qualifying Round
 
-
-### Tech Stack
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-
-### Streak 🚀
-[![GitHub Streak](https://streak-stats.demolab.com?user=beawkiattisak&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
-
 ### Coding Time Spent
 <!--START_SECTION:waka-->
 
