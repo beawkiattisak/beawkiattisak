@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kiattisakbeawsanburee)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dgRsHb5duc)
 
-### Achievement 🏆
+### Honors and Awards 🏆
 - Winner of KMITL ITClash 2025
 - Winner of KMITL Engineering Road To AI Cyber Security
 - 3rd Place Nation Software Contest 2025
