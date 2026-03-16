@@ -1,6 +1,6 @@
 ## hey there 👋
 
-- Currently studying at [Assumption College Rayong](https://www.acr.ac.th) in the Science-Engineer program.
+- Student at Chulalongkorn University (Computer Engineering and Digital Technology)
 
 ### Social Media
 
