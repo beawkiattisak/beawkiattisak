@@ -1,9 +1,8 @@
 ## hey there 👋
-
 - Student at Chulalongkorn University (Computer Engineering and Digital Technology)
-
+- [cyberchan.org](https://cyberchan.org), a CTF challenge site + forum for Thai hackers
+  
 ### Social Media
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiattisakbeaw/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kiattisakbeaw)
 
@@ -21,14 +20,11 @@
 
 ### Coding Time Spent
 <!--START_SECTION:waka-->
-
 ```txt
 Total Time: 727 hrs 5 mins
-
 TypeScript       334 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.60 %
 C++              116 hrs 19 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
 Other            41 hrs 2 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 Go               35 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 ```
-
 <!--END_SECTION:waka-->
