@@ -1,6 +1,6 @@
 ## hey there 👋
 - Student at Chulalongkorn University (Computer Engineering and Digital Technology)
-- [cyberchan.org](https://cyberchan.org), a CTF challenge site + forum for Thai hackers
+- Built [cyberchan.org](https://cyberchan.org), a CTF challenge site + forum for Thai hackers
   
 ### Social Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiattisakbeaw/)
