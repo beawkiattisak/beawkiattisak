@@ -1,26 +1,78 @@
-## hey there 👋
-- Student at Chulalongkorn University (Computer Engineering and Digital Technology)
-- Built [cyberchan.org](https://cyberchan.org), a CTF challenge site + forum for Thai hackers
-  
-### Social Media
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiattisakbeaw/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kiattisakbeaw)
+# Kiattisak Sanburee
 
-### 🏆 Honors and Awards
-- Winner of KMITL ITClash 2025
-- Winner of KMITL Engineering Road To AI Cyber Security
-- 3rd Place Nation Software Contest 2025
-- 3rd Place Depa Coding War 2024 Final Round
-- Winner of Depa Coding War 2024 Regional Round
-- 2nd Place The Global IT Olympiad CTF Qualifying Round
-- 2nd Place Thailand Cyber Top Talent 2025 Final Round
-- 4th Place Thailand Cyber Top Talent 2025 Qualifying Round
-- 4th Place Thailand Cyber Top Talent 2024 Final Round
-- 6th Place Thailand Cyber Top Talent 2024 Qualifying Round
+> B.Eng., Computer Engineering and Digital Technology
+> Chulalongkorn University, Bangkok, Thailand  
+> `beawkiattisak` · [cyberchan.org](https://cyberchan.org) · [linkedin](https://www.linkedin.com/in/kiattisakbeaw/) · [facebook](https://www.facebook.com/kiattisakbeaw)
 
-### Coding Time Spent
+---
+
+## About
+
+I'm an undergraduate student interested in systems programming, network security, and distributed systems. I currently serve as **Backend Developer** at [ISD SGCU](https://isd.sgcu.in.th/). I'm also the founder and sole developer of [cyberchan.org](https://cyberchan.org), a capture-the-flag platform and community forum built for the Thai information security community.
+
+**Areas of interest:** cryptographic protocol analysis · reverse engineering · distributed systems · competitive security
+
+---
+
+## Current Appointments
+
+| Role | Organization | Period |
+|---|---|---|
+| **Backend Developer** | [ISD SGCU](https://isd.sgcu.in.th/) | 2026 – Present |
+| **Creator & Maintainer** | [cyberchan.org](https://cyberchan.org/) | 2026 – Present |
+| **B.Eng. Student (CEDT)** | [Chulalongkorn University](https://www.chula.ac.th/) | 2026 – Present |
+
+---
+
+## Technical Competencies
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Security**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-222222?style=flat-square&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+---
+
+## Selected Awards & Honors
+
+| Year | Award | Result |
+|------|-------|--------|
+| 2025 | KMITL ITClash | 🥇 1st Place |
+| 2025 | KMITL Engineering Road To AI – Cyber Security Track | 🥇 1st Place |
+| 2025 | Thailand Cyber Top Talent – Final Round | 🥈 2nd Place |
+| 2025 | Thailand Cyber Top Talent – Qualifying Round | 4th Place |
+| 2025 | Nation Software Contest | 🥉 3rd Place |
+| 2025 | Global IT Olympiad CTF – Qualifying Round | 🥈 2nd Place |
+| 2024 | Depa Coding War – Final Round | 🥉 3rd Place |
+| 2024 | Depa Coding War – Regional Round | 🥇 1st Place |
+| 2024 | Thailand Cyber Top Talent – Final Round | 4th Place |
+| 2024 | Thailand Cyber Top Talent – Qualifying Round | 6th Place |
+
+---
+
+## Coding Activity
+
+*Automatically updated via WakaTime.*
+
 <!--START_SECTION:waka-->
-
 ```txt
 Total Time: 792 hrs 1 min
 
@@ -29,5 +81,22 @@ C++              116 hrs 19 mins       ███▒░░░░░░░░░�
 Other            41 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 Go               38 hrs 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
-
 <!--END_SECTION:waka-->
+
+---
+
+## Repository Activity
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=beawkiattisak&theme=tokyonight&hide_border=true&background=0d1117"
+    height="180"
+  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beawkiattisak&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%"/>
+</div>
+
+---
+
+*Last updated: auto-generated · ![](https://komarev.com/ghpvc/?username=beawkiattisak&style=flat-square&color=grey&label=views)*
