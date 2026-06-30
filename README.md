@@ -73,6 +73,7 @@ I'm an undergraduate student interested in systems programming, network security
 *Automatically updated via WakaTime.*
 
 <!--START_SECTION:waka-->
+
 ```txt
 Total Time: 792 hrs 1 min
 
@@ -81,6 +82,7 @@ C++              116 hrs 19 mins       ███▒░░░░░░░░░�
 Other            41 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 Go               38 hrs 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
