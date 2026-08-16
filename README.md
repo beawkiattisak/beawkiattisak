@@ -55,6 +55,7 @@ I'm an undergraduate student interested in systems programming, network security
 
 | Year | Award | Result |
 |------|-------|--------|
+| 2026 | WorldSkills Thailand Regional Competition 2026 - Cyber Security  | 🥇 1st Place (Central) |
 | 2025 | KMITL ITClash | 🥇 1st Place |
 | 2025 | KMITL Engineering Road To AI – Cyber Security Track | 🥇 1st Place |
 | 2025 | Thailand Cyber Top Talent – Final Round | 🥈 2nd Place |
