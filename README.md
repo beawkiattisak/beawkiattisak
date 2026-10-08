@@ -77,12 +77,13 @@ I'm an undergraduate student interested in systems programming, network security
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,036 hrs 20 mins
+Total Time: 1,036 hrs 27 mins
 
-TypeScript                 419 hrs 34 mins       █████████▓░░░░░░░░░░░░░░░   38.32 %
-C++                        216 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 %
-Markdown                   73 hrs 13 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Other                      58 hrs 37 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+TypeScript                 419 hrs 34 mins       █████████▓░░░░░░░░░░░░░░░   38.20 %
+C++                        216 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+Markdown                   73 hrs 19 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Other                      61 hrs 55 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Go                         41 hrs 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
